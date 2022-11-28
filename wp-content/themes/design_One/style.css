@@ -1,0 +1,31 @@
+/*
+
+
+Theme Name: Design_One
+Description:Interior Design Firm
+Author: Nidhi Garg
+Author URI: https://designonebynidhi.com//
+Tested up to: 6.0
+Requires PHP: 5.6
+Version: 1.1
+License URI:
+Text Domain: designonebynidhi
+Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready
+
+
+
+*/
+
+.nav-menu {
+    display: flex;
+    margin-top: 100px;
+}
+.nav-li{
+    list-style: none;
+    margin: 0px 30px;
+}
+
+.megamenu-lists {
+	width: 100%;
+	display: table;
+  }
